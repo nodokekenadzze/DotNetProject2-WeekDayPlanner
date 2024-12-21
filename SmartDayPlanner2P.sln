@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartDayPlanner2P", "SmartDayPlanner2P.csproj", "{B9065047-035A-4B0F-ABBA-9FBDE3452D80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9065047-035A-4B0F-ABBA-9FBDE3452D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9065047-035A-4B0F-ABBA-9FBDE3452D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9065047-035A-4B0F-ABBA-9FBDE3452D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9065047-035A-4B0F-ABBA-9FBDE3452D80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45CC618F-7AEF-4AE8-BBC9-0F0C2ED47C30}
+	EndGlobalSection
+EndGlobal
